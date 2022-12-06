@@ -1,10 +1,10 @@
 # prework-study-guide
 
-Boot Camp Prework Study Guide for students.
+# Boot Camp Prework Study Guide for students.
 
-Expected Behaviour
+## Expected Behaviour
 
-Create a GitHub Repository with a README File
+### Create a GitHub Repository with a README File
 
 User story:
     As a boot camp student, I want to create a repository with a README and a license in my GitHub account.
@@ -12,7 +12,7 @@ User story:
 Acceptance criteria:
     It is done when I have created a repository with a README and a license in my GitHub account.
 
-Create GitHub Issues Using Markdown
+### Create GitHub Issues Using Markdown
 
 User story:
     As a boot camp student, I want to use GitHub issues to manage and track tasks for my projects.
